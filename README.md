@@ -6,3 +6,9 @@
 习题链接：https://github.com/nndl/exercise
 
 教材链接：https://nndl.github.io/nndl-book.pdf
+
+作业1：chap2_linear_regression
+
+作业2：chap4_simple_neural_network
+
+作业2-2：chap4_simple_neural_network/function_fitting
