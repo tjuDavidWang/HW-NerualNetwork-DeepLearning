@@ -12,3 +12,5 @@
 作业2：chap4_simple_neural_network
 
 作业2-2：chap4_simple_neural_network/function_fitting
+
+作业3：chap5_CNN
